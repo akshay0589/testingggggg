@@ -1,0 +1,3 @@
+[submodule "dotoperator"]
+	path = dotoperator
+	url = https://github.com/akshay0589/dotoperator.git
